@@ -60,19 +60,19 @@
       {
         "title": "Mauro motors API",
         "description": "Mauro Motors é uma aplicação web composta por uma API em PHP e um front-end em React com Vite, desenvolvida para gerenciar e exibir informações de veículos de forma prática e moderna.",
-        "image": "/public/images/mauro-motors.jpg",
+        "image": "/images/mauro-motors.jpg",
         "link": "https://github.com/Daniel10013/mauro-motors-api"
       },
       {
         "title": "ARMS teste",
         "description": "ARMS Test é um projeto front-end em React, Vite e Tailwind CSS feito para um teste técnico. Permite gerar e exibir artigos dinamicamente, mostrando habilidades em desenvolvimento moderno e design responsivo.",
-        "image": "/public/images/Arms-test.jpg",
+        "image": "/images/Arms-test.jpg",
         "link": "https://gerador-de-artigos.vercel.app"
       },
       {
         "title": "PHP study",
         "description": "PHP Study é um template de API REST em PHP, inspirado no Laravel, que organiza controllers, models, middlewares e validações para facilitar a criação de aplicações web estruturadas.",
-        "image": "/public/images/php-study.jpg",
+        "image": "/images/php-study.jpg",
         "link": "https://github.com/Daniel10013/php-study"
       }
     ],
@@ -183,19 +183,19 @@
       {
         "title": "Mauro motors API",
         "description": "Mauro Motors is a web application consisting of a PHP API and a React with Vite front-end, designed to manage and display vehicle information in a practical and modern way.",
-        "image": "/public/images/mauro-motors.jpg",
+        "image": "/images/mauro-motors.jpg",
         "link": "https://github.com/Daniel10013/mauro-motors-api"
       },
       {
         "title": "ARMS test",
         "description": "ARMS Test is a front-end project in React, Vite, and Tailwind CSS created for a technical test. It allows generating and displaying articles dynamically, showcasing modern development skills and responsive design.",
-        "image": "/public/images/Arms-test.jpg",
+        "image": "/images/Arms-test.jpg",
         "link": "https://gerador-de-artigos.vercel.app"
       },
       {
         "title": "PHP study",
         "description": "PHP Study is a REST API template in PHP, inspired by Laravel, that organizes controllers, models, middlewares, and validations to simplify the development of structured web applications.",
-        "image": "/public/images/php-study.jpg",
+        "image": "/images/php-study.jpg",
         "link": "https://github.com/Daniel10013/php-study"
       }
     ],
