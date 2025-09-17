@@ -1,0 +1,248 @@
+{
+  "pt": {
+    "nav": {
+      "home": "Home",
+      "sobre": "Sobre",
+      "experiencias": "Experiências",
+      "projetos": "Projetos",
+      "skills": "Skills",
+      "contato": "Contato"
+    },
+    "home": {
+      "greeting": "Olá!",
+      "welcome": "Seja Bem-vindo ao meu portfólio!",
+      "downloadCV": "Baixar CV"
+    },
+    "sobre": {
+      "title": "Sobre",
+      "paragraph1": "Meu nome é Daniel Filipe Soares Corrêa Vilaça, tenho 19 anos e sou desenvolvedor de software apaixonado por tecnologia e inovação. Tenho experiência em desenvolvimento web e segurança de aplicações, atuando com PHP, Laravel, Node.js, React, TypeScript e MySQL. Já trabalhei em empresas como Bigmidia, Construsite Brasil, Symplicity Brasil e atualmente atuo como Desenvolvedor Fullstack na Tenacity Tecnologia, criando soluções modernas, performáticas e seguras.",
+      "paragraph2": "Durante minha trajetória, participei de projetos acadêmicos e pessoais de destaque, como o “InTime” (sistema de controle de frequência escolar, vencedor do Cotemig Startups 2023) e o “DreamsLab” (gestão de estoque e pedidos, destaque na PUC Minas em 2024). Além disso, desenvolvi um template de API REST em PHP como projeto pessoal, aplicando boas práticas e padrões avançados.",
+      "paragraph3": "Sou dedicado, proativo e busco sempre evoluir como profissional, aplicando conceitos como Clean Code, metodologias ágeis e segurança de aplicações. Meu objetivo é contribuir com soluções escaláveis, de impacto e que tragam valor real para as pessoas e empresas."
+    },
+    "experiencias": [
+      {
+        "empresa": "Bigmidia - Estágio de Desenvolvedor",
+        "periodo": "Fev/2022 - Ago/2022",
+        "atividades": [
+          "Desenvolvimento de funcionalidades web",
+          "Manutenção de sistemas e correção de bugs",
+          "Atuação com PHP, Yii2, JQuery e MySQL"
+        ]
+      },
+      {
+        "empresa": "Construsite Brasil - Desenvolvedor Web Júnior",
+        "periodo": "Fev/2023 - Mar/2024",
+        "atividades": [
+          "Desenvolvi sistemas com PHP, Laravel, JQuery, MySQL e Docker",
+          "Participei de projetos ágeis usando Scrum",
+          "Apliquei MVC, REST e boas práticas de Clean Code"
+        ]
+      },
+      {
+        "empresa": "Symplicity Brasil - Application Security Intern",
+        "periodo": "Set/2024 - Ago/2025",
+        "atividades": [
+          "Estágio em segurança de aplicações",
+          "Atuação com PHP, MySQL e JavaScript",
+          "Trabalho com equipes internacionais"
+        ]
+      },
+      {
+        "empresa": "Tenacity Tecnologia - Desenvolvedor FullStack",
+        "periodo": "Ago/2025 - Presente",
+        "atividades": [
+          "Desenvolvimento de páginas web modernas",
+          "Laravel, TypeScript, MySQL, Clean Code e REST"
+        ]
+      }
+    ],
+    "projetos": [
+      {
+        "title": "Mauro motors API",
+        "description": "Mauro Motors é uma aplicação web composta por uma API em PHP e um front-end em React com Vite, desenvolvida para gerenciar e exibir informações de veículos de forma prática e moderna.",
+        "image": "/public/images/mauro-motors.jpg",
+        "link": "https://github.com/Daniel10013/mauro-motors-api"
+      },
+      {
+        "title": "ARMS teste",
+        "description": "ARMS Test é um projeto front-end em React, Vite e Tailwind CSS feito para um teste técnico. Permite gerar e exibir artigos dinamicamente, mostrando habilidades em desenvolvimento moderno e design responsivo.",
+        "image": "/public/images/Arms-test.jpg",
+        "link": "https://gerador-de-artigos.vercel.app"
+      },
+      {
+        "title": "PHP study",
+        "description": "PHP Study é um template de API REST em PHP, inspirado no Laravel, que organiza controllers, models, middlewares e validações para facilitar a criação de aplicações web estruturadas.",
+        "image": "/public/images/php-study.jpg",
+        "link": "https://github.com/Daniel10013/php-study"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      },
+      {
+        "name": "CSS3",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+      },
+      {
+        "name": "JavaScript",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      },
+      {
+        "name": "React",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      },
+      {
+        "name": "Node.js",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+      },
+      {
+        "name": "PHP",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+      },
+      {
+        "name": "Laravel",
+        "image": "https://laravel.com/img/logomark.min.svg"
+      },
+      {
+        "name": "MySQL",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+      },
+      {
+        "name": "TypeScript",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      }
+    ],
+    "contato": {
+      "title": "Contato",
+      "text": "Se interessou pelo meu trabalho? Entre em contato!",
+      "linkedin": "https://www.linkedin.com/in/daniel-filipe-cv",
+      "github": "https://github.com/Daniel10013",
+      "email": "mailto:https://www.linkedin.com/in/daniel-filipe-cv"
+    }
+  },
+  "en": {
+    "nav": {
+      "home": "Home",
+      "sobre": "About",
+      "experiencias": "Experiences",
+      "projetos": "Projects",
+      "skills": "Skills",
+      "contato": "Contact"
+    },
+    "home": {
+      "greeting": "Hello!",
+      "welcome": "Welcome to my portfolio!",
+      "downloadCV": "Download CV"
+    },
+    "sobre": {
+      "title": "About",
+      "paragraph1": "My name is Daniel Filipe Soares Corrêa Vilaça, I'm 19 years old and a software developer passionate about technology and innovation. I have experience in web development and application security, working with PHP, Laravel, Node.js, React, TypeScript and MySQL. I have worked at companies like Bigmidia, Construsite Brasil, Symplicity Brasil and currently work as a Fullstack Developer at Tenacity Tecnologia, creating modern, performant and secure solutions.",
+      "paragraph2": "During my career, I participated in notable academic and personal projects, such as 'InTime' (school attendance control system, winner of Cotemig Startups 2023) and 'DreamsLab' (inventory and order management, highlighted at PUC Minas in 2024). Additionally, I developed a REST API template in PHP as a personal project, applying best practices and advanced patterns.",
+      "paragraph3": "I am dedicated, proactive, and always seek to evolve as a professional, applying concepts like Clean Code, agile methodologies, and application security. My goal is to contribute with scalable, impactful solutions that bring real value to people and companies."
+    },
+    "experiencias": [
+      {
+        "empresa": "Bigmidia - Developer Intern",
+        "periodo": "Feb/2022 - Aug/2022",
+        "atividades": [
+          "Developed web functionalities",
+          "Maintenance of systems and bug fixing",
+          "Worked with PHP, Yii2, JQuery, and MySQL"
+        ]
+      },
+      {
+        "empresa": "Construsite Brasil - Junior Web Developer",
+        "periodo": "Feb/2023 - Mar/2024",
+        "atividades": [
+          "Developed systems with PHP, Laravel, JQuery, MySQL, and Docker",
+          "Participated in agile projects using Scrum",
+          "Applied MVC, REST, and Clean Code best practices"
+        ]
+      },
+      {
+        "empresa": "Symplicity Brasil - Application Security Intern",
+        "periodo": "Sep/2024 - Aug/2025",
+        "atividades": [
+          "Application security internship",
+          "Worked with PHP, MySQL, and JavaScript",
+          "Collaborated with international teams"
+        ]
+      },
+      {
+        "empresa": "Tenacity Tecnologia - FullStack Developer",
+        "periodo": "Aug/2025 - Present",
+        "atividades": [
+          "Developed modern web pages",
+          "Laravel, TypeScript, MySQL, Clean Code, and REST"
+        ]
+      }
+    ],
+    "projetos": [
+      {
+        "title": "Mauro motors API",
+        "description": "Mauro Motors is a web application consisting of a PHP API and a React with Vite front-end, designed to manage and display vehicle information in a practical and modern way.",
+        "image": "/public/images/mauro-motors.jpg",
+        "link": "https://github.com/Daniel10013/mauro-motors-api"
+      },
+      {
+        "title": "ARMS test",
+        "description": "ARMS Test is a front-end project in React, Vite, and Tailwind CSS created for a technical test. It allows generating and displaying articles dynamically, showcasing modern development skills and responsive design.",
+        "image": "/public/images/Arms-test.jpg",
+        "link": "https://gerador-de-artigos.vercel.app"
+      },
+      {
+        "title": "PHP study",
+        "description": "PHP Study is a REST API template in PHP, inspired by Laravel, that organizes controllers, models, middlewares, and validations to simplify the development of structured web applications.",
+        "image": "/public/images/php-study.jpg",
+        "link": "https://github.com/Daniel10013/php-study"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      },
+      {
+        "name": "CSS3",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+      },
+      {
+        "name": "JavaScript",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      },
+      {
+        "name": "React",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      },
+      {
+        "name": "Node.js",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+      },
+      {
+        "name": "PHP",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+      },
+      {
+        "name": "Laravel",
+        "image": "https://laravel.com/img/logomark.min.svg"
+      },
+      {
+        "name": "MySQL",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+      },
+      {
+        "name": "TypeScript",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      }
+    ],
+    "contato": {
+      "title": "Contact",
+      "text": "Interested in my work? Get in touch!",
+      "linkedin": "https://www.linkedin.com/in/daniel-filipe-cv",
+      "github": "https://github.com/Daniel10013",
+      "email": "mailto:daniel.filipesoarescv@gmail.com"
+    }
+  }
+}
