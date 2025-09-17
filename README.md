@@ -28,6 +28,6 @@ Ajudar o Daniel a apresentar seu trabalho de forma **profissional, moderna e pr√
 
 ---
 
-# CONFIRA AQUI
+# CONFIRA AQUI:
 
-(Portif√≥lio) [https://portifolio-daniel-delta.vercel.app]
+https://portifolio-daniel-delta.vercel.app
